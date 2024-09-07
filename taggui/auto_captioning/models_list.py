@@ -26,6 +26,7 @@ MODELS = [
     'microsoft/Florence-2-base-ft',
     'microsoft/Florence-2-base',
     'MiaoshouAI/Florence-2-base-PromptGen',
+    'MiaoshouAI/Florence-2-base-PromptGen-v1.5',
     'microsoft/Phi-3-vision-128k-instruct',
     'llava-hf/llava-v1.6-mistral-7b-hf',
     'llava-hf/llava-v1.6-vicuna-7b-hf',

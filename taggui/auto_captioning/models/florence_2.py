@@ -34,6 +34,8 @@ class Florence2Promptgen(Florence2):
         '<GENERATE_PROMPT>',
         '<CAPTION>',
         '<DETAILED_CAPTION>',
-        '<MORE_DETAILED_CAPTION>'
+        '<MORE_DETAILED_CAPTION>',
+        '<GENERATE_TAGS>',
+        '<MIXED_CAPTION>'
     ]
     default_prompt = task_prompts[0]
